@@ -1,0 +1,30 @@
+# Warranty Policy
+
+## Coverage Period
+- Electronics: 12 months
+- Accessories: 6 months
+
+---
+
+## Covered
+
+- Manufacturing defects
+- Hardware malfunctions
+
+---
+
+## Not Covered
+
+- Accidental damage
+- Water damage
+- Unauthorized repairs
+- Normal wear and tear
+
+---
+
+## Warranty Claim Process
+
+1. Submit order ID
+2. Upload product image
+3. AI pre-check
+4. Manual review if required

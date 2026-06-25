@@ -1,0 +1,54 @@
+# Returns Policy – ShopAssist Store
+
+## Overview
+We aim to provide a hassle-free return experience for all customers.
+
+---
+
+## 1. Return Eligibility
+
+You are eligible to return an item if:
+
+- The item was purchased within the last **14 days**
+- The item is in **original condition**
+- All accessories and packaging are included
+
+---
+
+## 2. Non-Returnable Items
+
+- Personal hygiene products
+- Gift cards
+- Items marked “Final Sale”
+- Products damaged due to misuse
+
+---
+
+## 3. Condition Requirements
+
+Returns will be rejected if:
+
+- Severe physical damage is detected
+- Missing parts or accessories
+- Signs of tampering
+
+---
+
+## 4. Return Verification
+
+All returns undergo:
+- Photo verification (AI-based)
+- Manual inspection if flagged
+
+---
+
+## 5. Refund Timeline
+
+- Approved returns: 3–7 business days
+- Bank processing: additional 1–3 days
+
+---
+
+## 6. Shipping Responsibility
+
+- Customer pays return shipping unless item is defective
