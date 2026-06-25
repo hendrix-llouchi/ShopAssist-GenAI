@@ -1,0 +1,17 @@
+# Air Fryer Troubleshooting
+
+## Not heating
+- Check power cable
+- Ensure basket is fully inserted
+
+## Burning smell
+- Residual oil buildup
+- Clean heating element
+
+## Uneven cooking
+- Shake basket mid-cycle
+- Reduce load size
+
+## Smoke issue
+- Too much oil used
+- Food too fatty

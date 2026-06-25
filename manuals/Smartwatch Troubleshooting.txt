@@ -1,0 +1,20 @@
+# Smartwatch Troubleshooting
+
+## Not pairing
+- Restart Bluetooth
+- Restart both devices
+- Ensure app permissions enabled
+
+## Battery draining fast
+- Disable GPS when not needed
+- Reduce brightness
+- Turn off always-on display
+
+## Heart rate inaccurate
+- Clean sensor
+- Wear snugly on wrist
+- Avoid movement during measurement
+
+## Notifications not showing
+- Check app permissions
+- Enable background sync

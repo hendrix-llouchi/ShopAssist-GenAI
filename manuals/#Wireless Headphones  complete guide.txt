@@ -1,0 +1,109 @@
+# Wireless Headphones – Complete User Guide
+
+## Product Overview
+ShopAssist Wireless Headphones are over-ear Bluetooth headphones designed for music, calls, and gaming with active noise cancellation (ANC).
+
+---
+
+## 1. Initial Setup
+
+### What’s in the box
+- Wireless Headphones
+- USB-C Charging Cable
+- 3.5mm Audio Cable
+- User Manual
+
+---
+
+## 2. Power Functions
+
+### Turn On
+- Hold the power button for **3 seconds**
+- You will hear: "Power On"
+- LED turns blue
+
+### Turn Off
+- Hold power button for **5 seconds**
+- You will hear: "Power Off"
+
+### Reset Device
+- Hold power button for **10–12 seconds**
+- LED flashes red and blue alternately
+
+---
+
+## 3. Bluetooth Pairing
+
+### First Time Pairing
+1. Turn on headphones
+2. Hold power button for 5–7 seconds until LED flashes red/blue
+3. On your phone:
+   - Go to Bluetooth settings
+   - Select: **ShopAssist Headphones X1**
+4. Wait for “Connected” voice prompt
+
+### Reconnecting
+- Device automatically reconnects to last paired device
+
+---
+
+## 4. Audio Controls
+
+- Volume Up: Tap “+” button
+- Volume Down: Tap “-” button
+- Play/Pause: Single press power button
+- Next Track: Double press power button
+- Previous Track: Triple press power button
+
+---
+
+## 5. Charging
+
+- Use USB-C port only
+- Charging time: ~2 hours
+- Battery life:
+  - Music: 18–22 hours
+  - Calls: 15 hours
+  - Standby: 200 hours
+
+### LED Indicators
+- Red blinking → Low battery
+- Solid red → Charging
+- Green → Fully charged
+
+---
+
+## 6. Active Noise Cancellation (ANC)
+
+- Press ANC button once to toggle:
+  - ANC ON → blocks background noise
+  - ANC OFF → normal mode
+  - Transparency Mode → allows external sound
+
+---
+
+## 7. Safety Instructions
+
+- Do not use at high volume for extended periods
+- Do not expose to water or heavy moisture
+- Do not bend headband beyond natural range
+
+---
+
+## 8. Compatibility
+
+- Android 8+
+- iOS 13+
+- Windows 10+
+- macOS 10+
+
+---
+
+## 9. Warranty
+
+- 12-month manufacturer warranty
+- Covers manufacturing defects only
+- Does NOT cover:
+  - Water damage
+  - Physical breakage
+  - Unauthorized repairs

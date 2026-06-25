@@ -1,0 +1,68 @@
+# Smart Coffee Machine – Full User Guide
+
+## Product Overview
+The ShopAssist Smart Coffee Machine is an automatic espresso and drip coffee maker with programmable brewing settings.
+
+---
+
+## 1. Setup Instructions
+
+### First Use
+1. Remove packaging materials
+2. Wash water tank and drip tray
+3. Fill water tank (max line)
+4. Plug into power outlet
+
+---
+
+## 2. Control Panel
+
+- Power Button
+- Espresso Mode
+- Cappuccino Mode
+- Custom Brew
+- Temperature Control
+- Timer Settings
+
+---
+
+## 3. Brewing Coffee
+
+### Espresso
+1. Add coffee grounds (fine grind)
+2. Press Espresso button
+3. Wait 30–45 seconds
+
+### Cappuccino
+1. Fill milk container
+2. Select Cappuccino mode
+3. Machine froths milk automatically
+
+---
+
+## 4. Cleaning & Maintenance
+
+### Daily
+- Empty drip tray
+- Rinse milk container
+
+### Weekly
+- Run descaling cycle
+- Clean filter basket
+
+### Monthly
+- Deep clean water tank
+
+---
+
+## 5. Descaling Process
+1. Fill tank with descaling solution
+2. Run “Clean Mode”
+3. Rinse 2 cycles with clean water
+
+---
+
+## 6. Safety Warnings
+- Do not open during brewing
+- Avoid touching hot steam nozzle
+- Always unplug before cleaning

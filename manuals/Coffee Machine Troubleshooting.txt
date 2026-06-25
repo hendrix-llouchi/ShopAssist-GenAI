@@ -1,0 +1,22 @@
+# Coffee Machine Troubleshooting
+
+## Problem: Machine not turning on
+- Check power outlet
+- Inspect fuse
+
+## Problem: Coffee too weak
+- Increase coffee dosage
+- Use finer grind
+
+## Problem: No water flow
+- Water tank empty
+- Blocked filter
+
+## Problem: Loud noise
+- Air trapped in pump
+- Run water cycle
+
+## Error Codes
+- E01 → Water tank not detected
+- E02 → Overheating
+- E03 → Blocked filter

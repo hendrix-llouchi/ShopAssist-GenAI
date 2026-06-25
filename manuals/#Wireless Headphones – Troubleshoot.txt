@@ -1,0 +1,56 @@
+# Wireless Headphones – Troubleshooting Guide
+
+## Issue 1: Headphones not turning on
+
+### Possible causes:
+- Battery completely drained
+- Faulty charging cable
+
+### Solutions:
+- Charge for at least 30 minutes
+- Try a different USB-C cable
+
+---
+
+## Issue 2: Bluetooth not connecting
+
+### Fix steps:
+1. Turn Bluetooth OFF and ON
+2. Reset headphones (hold power 10 seconds)
+3. Forget device and re-pair
+
+---
+
+## Issue 3: One side not working
+
+### Causes:
+- Audio balance issue
+- Hardware imbalance
+
+### Fix:
+- Check device audio balance settings
+- Reset headphones
+- Test on another device
+
+---
+
+## Issue 4: Audio lag during video
+
+### Fix:
+- Move closer to device
+- Avoid interference (WiFi routers, microwaves)
+- Update Bluetooth drivers (PC)
+
+---
+
+## Issue 5: Low sound quality
+
+### Fix:
+- Disable ANC and test
+- Ensure clean ear cushions
+- Reconnect Bluetooth
+
+---
+
+## Advanced Diagnostic Mode
+Hold Volume + and Power for 8 seconds to enter diagnostic mode.

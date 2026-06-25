@@ -1,0 +1,41 @@
+# Smartwatch Setup Guide
+
+## Overview
+The ShopAssist Smartwatch tracks fitness, notifications, and health metrics.
+
+---
+
+## 1. First Setup
+
+1. Charge device fully (minimum 90 minutes)
+2. Install "ShopAssist Wear App"
+3. Enable Bluetooth
+4. Scan QR code on watch screen
+5. Pair device
+
+---
+
+## 2. Features
+
+- Heart rate monitoring
+- Sleep tracking
+- Step counter
+- Call notifications
+- GPS tracking
+
+---
+
+## 3. Watch Controls
+
+- Swipe up: Notifications
+- Swipe down: Quick settings
+- Press side button: Home
+- Long press: Power options
+
+---
+
+## 4. Syncing Data
+
+- Open mobile app
+- Ensure Bluetooth is active
+- Sync manually if data delay occurs
